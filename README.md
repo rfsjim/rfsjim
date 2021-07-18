@@ -15,3 +15,5 @@ GitHub Stats Provided by [anuraghazra](https://github.com/anuraghazra/github-rea
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfsjim)
 
+![Visitor Count](https://profile-counter.glitch.me/rfsjim/count.svg)
+
