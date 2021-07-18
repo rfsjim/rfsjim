@@ -9,4 +9,4 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning JavaScript and looking to expand my general coding skills :keyboard:
 - ⚡ Fun fact: I am also studying _nihongo_ (Japanese) :japan:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfsjim&show_icons=true&theme=default](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfsjim&show_icons=true&theme=default)(https://github.com/anuraghazra/github-readme-stats)
