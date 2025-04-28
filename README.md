@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started: -->
 
+- 🧑‍💻 Github has lots of functionality for managing coding projects
 - 📖 I'm learning computer science topics, exploring algorithms and data structures
 - 🔭 I’m currently working on a Screeps AI :space_invader: [_Screeps Nooby Code_](https://github.com/rfsjim/Screeps-Nooby-Typescript-Code)
 - 🌱 I’m currently learning JavaScript/Typescript and looking to expand my general coding skills :keyboard:
