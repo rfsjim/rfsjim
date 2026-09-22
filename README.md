@@ -11,9 +11,9 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning JavaScript/Typescript and looking to expand my general coding skills :keyboard:
 - ⚡ Fun fact: I am also studying 日本語 _nihongo_ (Japanese) :japan:
 
-GitHub Stats Provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+GitHub Stats Provided by [stats-organization]((https://github.com/stats-organization/github-stats-extended))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfsjim&show_icons=true&theme=default)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rfsjim)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfsjim)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rfsjim)
 
